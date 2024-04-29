@@ -19,7 +19,8 @@ template = (
 prompt = ChatPromptTemplate.from_template(template)
 
 def pdf_load(file_path):
-  loader = PyPDFLoader(file_path=file_path)
+  loader = PyPDFLoader(file_path=file_path,
+                       extract_images=True)
   docs = loader.load()
   return docs
 
