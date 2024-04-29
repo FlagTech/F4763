@@ -8,6 +8,7 @@
 
 ```
 git clone https://github.com/FlagTech/Officefile_bot.git
+cd Officefile_bot
 ```
 
 ```
