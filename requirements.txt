@@ -1,7 +1,7 @@
 langchain
 langchain_openai
 langchain-experimental
-faiss-gpu
+faiss-cpu
 pypdf
 python-docx
 python-pptx
