@@ -3,6 +3,7 @@ langchain_openai
 langchain-experimental
 faiss-cpu
 pypdf
+rapidocr-onnxruntime
 python-docx
 python-pptx
 unstructured
