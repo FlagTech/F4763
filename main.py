@@ -148,7 +148,7 @@ page = """
 <|layout|columns=300px 1|
 
 <|part|class_name=sidebar|
-# Youtube AI **Chat**{: .color-primary} # {: .logo-text}
+# Office AI **Chat**{: .color-primary} # {: .logo-text}
 <|新對話|button|class_name=fullwidth plain|id=reset_app_button|on_action=reset_chat|>
 
 ### 過去的對話記錄 ### {: .h5 .mt2 .mb-half}
